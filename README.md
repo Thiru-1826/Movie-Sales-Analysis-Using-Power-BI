@@ -4,7 +4,7 @@ Removed invalid values, filled missing values using median for numerical data an
                                   
 ## Key KPIs Use card visuals :
 
-## Total Revenue, Total Movies, Average Rating, Highest Revenue Year
+Total Revenue, Total Movies, Average Rating, Highest Revenue Year
                                
 ## Genre Performance :
 
