@@ -6,8 +6,11 @@ Data Cleaning & Preparation :
                                   
 Key KPIs Use card visuals :
                                   Total Revenue
+                                  
                                   Total Movies
+                                  
                                   Average Rating
+                                  
                                   Highest Revenue Year
                                   
 Genre Performance :
