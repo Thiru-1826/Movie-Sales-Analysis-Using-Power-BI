@@ -5,13 +5,8 @@ Data Cleaning & Preparation :
                                   Created calculated measures (Revenue, Avg Rating)
                                   
 Key KPIs Use card visuals :
-                                  Total Revenue
-                                  
-                                  Total Movies
-                                  
-                                  Average Rating
-                                  
-                                  Highest Revenue Year
+                                  Total Revenue, Total Movies, Average Rating, Highest Revenue Year
+
                                   
 Genre Performance :
                                   Movies By Different Genres
